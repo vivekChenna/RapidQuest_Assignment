@@ -9,21 +9,21 @@ const AccountDetails = () => {
       <div className=" flex flex-col gap-4 mt-3">
         <div>
           <p className=" font-extrabold font-mono text-3xl">$19,892</p>
-          <p className=" font-semibold text-sm text-gray-500">
+          <p className=" font-semibold text-sm text-gray-400">
             Account Balance
           </p>
         </div>
 
         <div>
           <p className=" font-bold">$4,000</p>
-          <p className="font-semibold text-sm text-gray-500">
+          <p className="font-semibold text-sm text-gray-400">
             Year-to-Date Contributions
           </p>
         </div>
 
         <div>
           <p className=" font-bold">$1,892</p>
-          <p className="font-semibold text-sm text-gray-500">Total interest</p>
+          <p className="font-semibold text-sm text-gray-400">Total interest</p>
         </div>
       </div>
 
